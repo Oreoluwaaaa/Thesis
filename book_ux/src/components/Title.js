@@ -10,7 +10,7 @@ const Title = () => {
     return (  
         <div className="title-page">
             <div className="title-page--content">
-                <h1 className="title">Book Project</h1>
+                <h1 className="title">Book Recommendation System</h1>
                 <div className = "title-page--desc">Welcome! Excited to find you great possible reads today!</div>
                 <button onClick = {handleClick}>Get Started</button>
             </div>
