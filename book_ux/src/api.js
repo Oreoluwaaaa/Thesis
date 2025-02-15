@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://bookrecapp.onrender.com'; 
+const API_URL = 'https://bookrecapp-828928847764.us-central1.run.app'; 
 
 export const fetchRecommendationsByDescription = async (description) => {
     try {
