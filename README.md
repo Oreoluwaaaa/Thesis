@@ -51,7 +51,7 @@ book_recommendation_app/
 
 ## Installation
 ### Prerequisites
-- [Node.js](https://nodejs.org/) (for React frontend)
+- [React.js](https://nodejs.org/) (for React frontend)
 - [Python 3](https://www.python.org/) and \`pip\` (for Flask backend)
 
 ### Setup Instructions
