@@ -29,18 +29,6 @@ const UserInfo = () => {
                     required
                 />
                 <br />
-                <label htmlFor="email">Email</label>
-                <br />
-                <input
-                    id="email"
-                    type="email"
-                    name="email"
-                    placeholder="john.doe@example.com"
-                    value={data.email}
-                    onChange={handleChange}
-                    required
-                />
-                <br />
             </form>
             <br></br>
             <div className="all-forms">
